@@ -1,0 +1,9 @@
+langchain-openai
+langchain-community
+pypdf
+unstructured
+chromadb
+sentence-transformers
+requests
+gradio
+python-dotenv
